@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "name": "diagonal-wave-v1",
+  "description": "红、黄、蓝单色波峰由左下向右上推进，尾光变色并消退",
+  "effect": "diagonal-wave",
+  "colors": [
+    "red",
+    "yellow",
+    "blue"
+  ],
+  "peak": 4096,
+  "travel_ms": 3200,
+  "interval_ms": 1600,
+  "crest_ms": 180,
+  "tail_ms": 1200,
+  "gclk_hz": 2000000
+}

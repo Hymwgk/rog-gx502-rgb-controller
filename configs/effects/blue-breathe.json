@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "name": "blue-breathe",
+  "description": "单蓝色呼吸，复用已验证的刷新时序；新效果尚未实物验证",
+  "effect": "breathe",
+  "colors": ["blue"],
+  "peak": 4096,
+  "steps_per_half": 64,
+  "step_ms": 48,
+  "curve": "square",
+  "gclk_hz": 2000000
+}

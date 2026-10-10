@@ -1,0 +1,1865 @@
+[
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 0,
+    "key": "C",
+    "red": 0,
+    "green": 16,
+    "blue": 32,
+    "camera_xy": [
+      205.0,
+      279.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 1,
+    "key": "Fn右",
+    "red": 1,
+    "green": 17,
+    "blue": 33,
+    "camera_xy": [
+      592.8,
+      320.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 2,
+    "key": "Q",
+    "red": 2,
+    "green": 18,
+    "blue": 34,
+    "camera_xy": [
+      111.8,
+      215.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 3,
+    "key": "Alt右",
+    "red": 3,
+    "green": 19,
+    "blue": 35,
+    "camera_xy": [
+      380.6,
+      316.8
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 4,
+    "key": null,
+    "red": 4,
+    "green": 20,
+    "blue": 36,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 5,
+    "key": "X",
+    "red": 5,
+    "green": 21,
+    "blue": 37,
+    "camera_xy": [
+      170.0,
+      279.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 6,
+    "key": "V",
+    "red": 6,
+    "green": 22,
+    "blue": 38,
+    "camera_xy": [
+      240.4,
+      279.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 7,
+    "key": "M",
+    "red": 7,
+    "green": 23,
+    "blue": 39,
+    "camera_xy": [
+      345.7,
+      280.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 8,
+    "key": ". >",
+    "red": 8,
+    "green": 24,
+    "blue": 40,
+    "camera_xy": [
+      414.0,
+      278.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 9,
+    "key": "Shift右",
+    "red": 9,
+    "green": 25,
+    "blue": 41,
+    "camera_xy": [
+      510.6,
+      277.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 10,
+    "key": ", <",
+    "red": 10,
+    "green": 26,
+    "blue": 42,
+    "camera_xy": [
+      378.8,
+      278.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 11,
+    "key": null,
+    "red": 11,
+    "green": 27,
+    "blue": 43,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 12,
+    "key": "Ctrl右",
+    "red": 12,
+    "green": 28,
+    "blue": 44,
+    "camera_xy": [
+      448.0,
+      317.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 13,
+    "key": "/ ?",
+    "red": 13,
+    "green": 29,
+    "blue": 45,
+    "camera_xy": [
+      453.4,
+      281.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 14,
+    "key": "' \"",
+    "red": 14,
+    "green": 30,
+    "blue": 46,
+    "camera_xy": [
+      470.9,
+      248.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 0,
+    "level": 1,
+    "slot": 15,
+    "key": null,
+    "red": 15,
+    "green": 31,
+    "blue": 47,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 0,
+    "key": null,
+    "red": 0,
+    "green": 16,
+    "blue": 32,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 1,
+    "key": null,
+    "red": 1,
+    "green": 17,
+    "blue": 33,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 2,
+    "key": null,
+    "red": 2,
+    "green": 18,
+    "blue": 34,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 3,
+    "key": "Alt左",
+    "red": 3,
+    "green": 19,
+    "blue": 35,
+    "camera_xy": [
+      168.5,
+      315.6
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 4,
+    "key": null,
+    "red": 4,
+    "green": 20,
+    "blue": 36,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 5,
+    "key": "Z",
+    "red": 5,
+    "green": 21,
+    "blue": 37,
+    "camera_xy": [
+      135.0,
+      279.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 6,
+    "key": "B",
+    "red": 6,
+    "green": 22,
+    "blue": 38,
+    "camera_xy": [
+      275.1,
+      279.6
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 7,
+    "key": "N",
+    "red": 7,
+    "green": 23,
+    "blue": 39,
+    "camera_xy": [
+      310.6,
+      279.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 8,
+    "key": "↓",
+    "red": 8,
+    "green": 24,
+    "blue": 40,
+    "camera_xy": [
+      521.5,
+      337.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 9,
+    "key": "Shift左",
+    "red": 9,
+    "green": 25,
+    "blue": 41,
+    "camera_xy": [
+      77.1,
+      276.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 10,
+    "key": "Shift右",
+    "red": 10,
+    "green": 26,
+    "blue": 42,
+    "camera_xy": [
+      517.7,
+      280.8
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 11,
+    "key": null,
+    "red": 11,
+    "green": 27,
+    "blue": 43,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 12,
+    "key": "Ctrl左",
+    "red": 12,
+    "green": 28,
+    "blue": 44,
+    "camera_xy": [
+      56.3,
+      314.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 13,
+    "key": "↑",
+    "red": 13,
+    "green": 29,
+    "blue": 45,
+    "camera_xy": [
+      519.9,
+      312.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 14,
+    "key": "Enter",
+    "red": 14,
+    "green": 30,
+    "blue": 46,
+    "camera_xy": [
+      519.5,
+      246.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 1,
+    "level": 1,
+    "slot": 15,
+    "key": "F8",
+    "red": 15,
+    "green": 31,
+    "blue": 47,
+    "camera_xy": [
+      379.5,
+      159.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 0,
+    "key": "Space",
+    "red": 0,
+    "green": 16,
+    "blue": 32,
+    "camera_xy": [
+      262.6,
+      309.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 1,
+    "key": "Space",
+    "red": 1,
+    "green": 17,
+    "blue": 33,
+    "camera_xy": [
+      268.6,
+      309.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 2,
+    "key": "Fn左",
+    "red": 2,
+    "green": 18,
+    "blue": 34,
+    "camera_xy": [
+      97.1,
+      315.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 3,
+    "key": "Tab",
+    "red": 3,
+    "green": 19,
+    "blue": 35,
+    "camera_xy": [
+      73.8,
+      214.6
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 4,
+    "key": "E",
+    "red": 4,
+    "green": 20,
+    "blue": 36,
+    "camera_xy": [
+      182.0,
+      215.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 5,
+    "key": "F2",
+    "red": 5,
+    "green": 21,
+    "blue": 37,
+    "camera_xy": [
+      160.8,
+      158.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 6,
+    "key": "G",
+    "red": 6,
+    "green": 22,
+    "blue": 38,
+    "camera_xy": [
+      258.6,
+      247.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 7,
+    "key": "H",
+    "red": 7,
+    "green": 23,
+    "blue": 39,
+    "camera_xy": [
+      293.2,
+      247.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 8,
+    "key": "\\ |",
+    "red": 8,
+    "green": 24,
+    "blue": 40,
+    "camera_xy": [
+      539.3,
+      215.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 9,
+    "key": "Shift左",
+    "red": 9,
+    "green": 25,
+    "blue": 41,
+    "camera_xy": [
+      81.6,
+      277.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 10,
+    "key": "F6",
+    "red": 10,
+    "green": 26,
+    "blue": 42,
+    "camera_xy": [
+      346.8,
+      159.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 11,
+    "key": "Shift右",
+    "red": 11,
+    "green": 27,
+    "blue": 43,
+    "camera_xy": [
+      524.9,
+      276.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 12,
+    "key": "Ctrl右",
+    "red": 12,
+    "green": 28,
+    "blue": 44,
+    "camera_xy": [
+      455.7,
+      317.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 13,
+    "key": "- _",
+    "red": 13,
+    "green": 29,
+    "blue": 45,
+    "camera_xy": [
+      442.1,
+      183.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 14,
+    "key": "Enter",
+    "red": 14,
+    "green": 30,
+    "blue": 46,
+    "camera_xy": [
+      527.2,
+      247.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 2,
+    "level": 1,
+    "slot": 15,
+    "key": "→",
+    "red": 15,
+    "green": 31,
+    "blue": 47,
+    "camera_xy": [
+      552.6,
+      337.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 0,
+    "key": "Space",
+    "red": 0,
+    "green": 16,
+    "blue": 32,
+    "camera_xy": [
+      281.3,
+      309.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 1,
+    "key": "Windows",
+    "red": 1,
+    "green": 17,
+    "blue": 33,
+    "camera_xy": [
+      133.2,
+      315.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 2,
+    "key": "Tab",
+    "red": 2,
+    "green": 18,
+    "blue": 34,
+    "camera_xy": [
+      75.5,
+      208.9
+    ],
+    "status": "已观察",
+    "weak_green": true
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 3,
+    "key": "Tab",
+    "red": 3,
+    "green": 19,
+    "blue": 35,
+    "camera_xy": [
+      73.1,
+      220.8
+    ],
+    "status": "已观察",
+    "weak_green": true
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 4,
+    "key": "F4",
+    "red": 4,
+    "green": 20,
+    "blue": 36,
+    "camera_xy": [
+      225.2,
+      159.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 5,
+    "key": "F1",
+    "red": 5,
+    "green": 21,
+    "blue": 37,
+    "camera_xy": [
+      127.4,
+      158.8
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 6,
+    "key": "T",
+    "red": 6,
+    "green": 22,
+    "blue": 38,
+    "camera_xy": [
+      250.5,
+      214.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 7,
+    "key": "Y",
+    "red": 7,
+    "green": 23,
+    "blue": 39,
+    "camera_xy": [
+      284.9,
+      215.0
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 8,
+    "key": "O",
+    "red": 8,
+    "green": 24,
+    "blue": 40,
+    "camera_xy": [
+      389.1,
+      215.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 9,
+    "key": "Shift左",
+    "red": 9,
+    "green": 25,
+    "blue": 41,
+    "camera_xy": [
+      85.6,
+      276.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 10,
+    "key": "F7",
+    "red": 10,
+    "green": 26,
+    "blue": 42,
+    "camera_xy": [
+      314.6,
+      159.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 11,
+    "key": "F9",
+    "red": 11,
+    "green": 27,
+    "blue": 43,
+    "camera_xy": [
+      439.9,
+      159.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 12,
+    "key": "Enter",
+    "red": 12,
+    "green": 28,
+    "blue": 44,
+    "camera_xy": [
+      532.7,
+      247.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 13,
+    "key": "F12",
+    "red": 13,
+    "green": 29,
+    "blue": 45,
+    "camera_xy": [
+      541.8,
+      157.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 14,
+    "key": "End",
+    "red": 14,
+    "green": 30,
+    "blue": 46,
+    "camera_xy": [
+      590.2,
+      283.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 3,
+    "level": 1,
+    "slot": 15,
+    "key": null,
+    "red": 15,
+    "green": 31,
+    "blue": 47,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 0,
+    "key": "Space",
+    "red": 0,
+    "green": 16,
+    "blue": 32,
+    "camera_xy": [
+      287.4,
+      309.5
+    ],
+    "status": "已观察",
+    "weak_green": true
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 1,
+    "key": null,
+    "red": 1,
+    "green": 17,
+    "blue": 33,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 2,
+    "key": "` ~",
+    "red": 2,
+    "green": 18,
+    "blue": 34,
+    "camera_xy": [
+      66.5,
+      182.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 3,
+    "key": "CapsLock",
+    "red": 3,
+    "green": 19,
+    "blue": 35,
+    "camera_xy": [
+      74.5,
+      247.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 4,
+    "key": "CapsLock",
+    "red": 4,
+    "green": 20,
+    "blue": 36,
+    "camera_xy": [
+      68.9,
+      246.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 5,
+    "key": "S",
+    "red": 5,
+    "green": 21,
+    "blue": 37,
+    "camera_xy": [
+      154.3,
+      247.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 6,
+    "key": "5 %",
+    "red": 6,
+    "green": 22,
+    "blue": 38,
+    "camera_xy": [
+      233.9,
+      183.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 7,
+    "key": "6 ^",
+    "red": 7,
+    "green": 23,
+    "blue": 39,
+    "camera_xy": [
+      268.7,
+      184.6
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 8,
+    "key": "F10",
+    "red": 8,
+    "green": 24,
+    "blue": 40,
+    "camera_xy": [
+      472.6,
+      158.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 9,
+    "key": "Ctrl右",
+    "red": 9,
+    "green": 25,
+    "blue": 41,
+    "camera_xy": [
+      460.0,
+      318.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 10,
+    "key": "F5",
+    "red": 10,
+    "green": 26,
+    "blue": 42,
+    "camera_xy": [
+      282.6,
+      159.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 11,
+    "key": null,
+    "red": 11,
+    "green": 27,
+    "blue": 43,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 12,
+    "key": null,
+    "red": 12,
+    "green": 28,
+    "blue": 44,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 13,
+    "key": "0 )",
+    "red": 13,
+    "green": 29,
+    "blue": 45,
+    "camera_xy": [
+      406.2,
+      184.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 14,
+    "key": "= +",
+    "red": 14,
+    "green": 30,
+    "blue": 46,
+    "camera_xy": [
+      477.5,
+      183.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 4,
+    "level": 1,
+    "slot": 15,
+    "key": "Delete/Insert",
+    "red": 15,
+    "green": 31,
+    "blue": 47,
+    "camera_xy": [
+      582.9,
+      157.0
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 0,
+    "key": null,
+    "red": 0,
+    "green": 16,
+    "blue": 32,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 1,
+    "key": "Home",
+    "red": 1,
+    "green": 17,
+    "blue": 33,
+    "camera_xy": [
+      584.6,
+      183.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 2,
+    "key": "1 !",
+    "red": 2,
+    "green": 18,
+    "blue": 34,
+    "camera_xy": [
+      97.2,
+      183.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 3,
+    "key": "CapsLock",
+    "red": 3,
+    "green": 19,
+    "blue": 35,
+    "camera_xy": [
+      80.8,
+      246.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 4,
+    "key": "3 #",
+    "red": 4,
+    "green": 20,
+    "blue": 36,
+    "camera_xy": [
+      166.2,
+      183.8
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 5,
+    "key": "2 @",
+    "red": 5,
+    "green": 21,
+    "blue": 37,
+    "camera_xy": [
+      131.2,
+      183.8
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 6,
+    "key": "4 $",
+    "red": 6,
+    "green": 22,
+    "blue": 38,
+    "camera_xy": [
+      199.9,
+      183.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 7,
+    "key": "7 &",
+    "red": 7,
+    "green": 23,
+    "blue": 39,
+    "camera_xy": [
+      302.0,
+      183.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 8,
+    "key": "9 (",
+    "red": 8,
+    "green": 24,
+    "blue": 40,
+    "camera_xy": [
+      371.6,
+      184.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 9,
+    "key": null,
+    "red": 9,
+    "green": 25,
+    "blue": 41,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 10,
+    "key": "8 *",
+    "red": 10,
+    "green": 26,
+    "blue": 42,
+    "camera_xy": [
+      336.7,
+      184.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 11,
+    "key": null,
+    "red": 11,
+    "green": 27,
+    "blue": 43,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 12,
+    "key": "Ctrl左",
+    "red": 12,
+    "green": 28,
+    "blue": 44,
+    "camera_xy": [
+      63.8,
+      315.0
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 13,
+    "key": "P",
+    "red": 13,
+    "green": 29,
+    "blue": 45,
+    "camera_xy": [
+      424.0,
+      215.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 14,
+    "key": "Backspace",
+    "red": 14,
+    "green": 30,
+    "blue": 46,
+    "camera_xy": [
+      519.6,
+      183.1
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 5,
+    "level": 1,
+    "slot": 15,
+    "key": "Backspace",
+    "red": 15,
+    "green": 31,
+    "blue": 47,
+    "camera_xy": [
+      527.1,
+      183.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 0,
+    "key": null,
+    "red": 0,
+    "green": 16,
+    "blue": 32,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 1,
+    "key": "PgUp",
+    "red": 1,
+    "green": 17,
+    "blue": 33,
+    "camera_xy": [
+      586.3,
+      215.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 2,
+    "key": null,
+    "red": 2,
+    "green": 18,
+    "blue": 34,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 3,
+    "key": "音量加",
+    "red": 3,
+    "green": 19,
+    "blue": 35,
+    "camera_xy": [
+      161.6,
+      131.6
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 4,
+    "key": "F3",
+    "red": 4,
+    "green": 20,
+    "blue": 36,
+    "camera_xy": [
+      192.9,
+      158.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 5,
+    "key": "W",
+    "red": 5,
+    "green": 21,
+    "blue": 37,
+    "camera_xy": [
+      147.2,
+      215.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 6,
+    "key": "R",
+    "red": 6,
+    "green": 22,
+    "blue": 38,
+    "camera_xy": [
+      216.2,
+      215.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 7,
+    "key": "U",
+    "red": 7,
+    "green": 23,
+    "blue": 39,
+    "camera_xy": [
+      319.5,
+      216.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 8,
+    "key": "F11",
+    "red": 8,
+    "green": 24,
+    "blue": 40,
+    "camera_xy": [
+      506.6,
+      157.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 9,
+    "key": null,
+    "red": 9,
+    "green": 25,
+    "blue": 41,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 10,
+    "key": "I",
+    "red": 10,
+    "green": 26,
+    "blue": 42,
+    "camera_xy": [
+      353.9,
+      215.8
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 11,
+    "key": "←",
+    "red": 11,
+    "green": 27,
+    "blue": 43,
+    "camera_xy": [
+      490.2,
+      335.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 12,
+    "key": "Ctrl左",
+    "red": 12,
+    "green": 28,
+    "blue": 44,
+    "camera_xy": [
+      66.3,
+      315.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 13,
+    "key": "[ {",
+    "red": 13,
+    "green": 29,
+    "blue": 45,
+    "camera_xy": [
+      459.6,
+      215.8
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 14,
+    "key": "] }",
+    "red": 14,
+    "green": 30,
+    "blue": 46,
+    "camera_xy": [
+      497.8,
+      215.6
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 6,
+    "level": 1,
+    "slot": 15,
+    "key": "Backspace",
+    "red": 15,
+    "green": 31,
+    "blue": 47,
+    "camera_xy": [
+      535.3,
+      182.7
+    ],
+    "status": "已观察",
+    "weak_green": true
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 0,
+    "key": "音量减",
+    "red": 0,
+    "green": 16,
+    "blue": 32,
+    "camera_xy": [
+      129.1,
+      131.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 1,
+    "key": null,
+    "red": 1,
+    "green": 17,
+    "blue": 33,
+    "camera_xy": null,
+    "status": "未检测到亮灯",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 2,
+    "key": "A",
+    "red": 2,
+    "green": 18,
+    "blue": 34,
+    "camera_xy": [
+      119.1,
+      247.0
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 3,
+    "key": "麦克风静音",
+    "red": 3,
+    "green": 19,
+    "blue": 35,
+    "camera_xy": [
+      193.4,
+      131.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 4,
+    "key": "PgDn",
+    "red": 4,
+    "green": 20,
+    "blue": 36,
+    "camera_xy": [
+      588.6,
+      248.9
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 5,
+    "key": "Esc",
+    "red": 5,
+    "green": 21,
+    "blue": 37,
+    "camera_xy": [
+      72.3,
+      158.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 6,
+    "key": "F",
+    "red": 6,
+    "green": 22,
+    "blue": 38,
+    "camera_xy": [
+      223.3,
+      246.3
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 7,
+    "key": "J",
+    "red": 7,
+    "green": 23,
+    "blue": 39,
+    "camera_xy": [
+      328.9,
+      248.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 8,
+    "key": "L",
+    "red": 8,
+    "green": 24,
+    "blue": 40,
+    "camera_xy": [
+      397.0,
+      248.8
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 9,
+    "key": "ROG",
+    "red": 9,
+    "green": 25,
+    "blue": 41,
+    "camera_xy": [
+      227.1,
+      132.4
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 10,
+    "key": "K",
+    "red": 10,
+    "green": 26,
+    "blue": 42,
+    "camera_xy": [
+      362.1,
+      247.6
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 11,
+    "key": "PrtSc",
+    "red": 11,
+    "green": 27,
+    "blue": 43,
+    "camera_xy": [
+      410.0,
+      317.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 12,
+    "key": "PrtSc",
+    "red": 12,
+    "green": 28,
+    "blue": 44,
+    "camera_xy": [
+      418.1,
+      317.5
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 13,
+    "key": "; :",
+    "red": 13,
+    "green": 29,
+    "blue": 45,
+    "camera_xy": [
+      434.1,
+      247.7
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 14,
+    "key": "D",
+    "red": 14,
+    "green": 30,
+    "blue": 46,
+    "camera_xy": [
+      189.0,
+      247.2
+    ],
+    "status": "已观察",
+    "weak_green": false
+  },
+  {
+    "ctrl": 7,
+    "level": 1,
+    "slot": 15,
+    "key": "PrtSc",
+    "red": 15,
+    "green": 31,
+    "blue": 47,
+    "camera_xy": [
+      424.6,
+      317.7
+    ],
+    "status": "已观察",
+    "weak_green": true
+  }
+]

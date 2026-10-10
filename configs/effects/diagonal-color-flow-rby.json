@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "diagonal-color-flow-rby",
+  "description": "逐键加强红蓝黄混色，无单色波峰，微小起伏，横穿8秒",
+  "effect": "diagonal-wave",
+  "colors": [
+    "red",
+    "blue",
+    "yellow"
+  ],
+  "peak": 3072,
+  "travel_ms": 8000,
+  "interval_ms": 3600,
+  "crest_ms": 360,
+  "tail_ms": 1800,
+  "gclk_hz": 2000000,
+  "wave_curve": "color-flow-blended",
+  "floor": 2944,
+  "color_blend": 512
+}

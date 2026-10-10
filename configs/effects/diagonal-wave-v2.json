@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "name": "diagonal-wave-v2",
+  "description": "红、黄、蓝慢速斜向波浪，单色波峰之间以混色尾光连续衔接",
+  "effect": "diagonal-wave",
+  "colors": [
+    "red",
+    "yellow",
+    "blue"
+  ],
+  "peak": 4096,
+  "travel_ms": 6400,
+  "interval_ms": 3200,
+  "crest_ms": 360,
+  "tail_ms": 4800,
+  "gclk_hz": 2000000
+}

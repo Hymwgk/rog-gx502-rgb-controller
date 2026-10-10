@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "name": "classic-breathe",
+  "description": "已实物确认无明显频闪的全键盘四色呼吸",
+  "effect": "breathe",
+  "colors": ["white", "blue", "red", "green"],
+  "peak": 4096,
+  "steps_per_half": 64,
+  "step_ms": 48,
+  "curve": "square",
+  "gclk_hz": 2000000
+}

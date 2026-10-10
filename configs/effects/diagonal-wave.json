@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "name": "diagonal-wave",
+  "description": "慢速斜向红黄蓝波浪，窄峰深谷、连续平滑混色",
+  "effect": "diagonal-wave",
+  "colors": [
+    "red",
+    "yellow",
+    "blue"
+  ],
+  "peak": 6144,
+  "travel_ms": 9600,
+  "interval_ms": 3600,
+  "crest_ms": 360,
+  "tail_ms": 1800,
+  "gclk_hz": 2000000,
+  "wave_curve": "smooth",
+  "floor": 256
+}

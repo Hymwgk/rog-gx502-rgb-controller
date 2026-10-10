@@ -1,0 +1,28 @@
+# Local ARM toolchain (install with setup-ubuntu.sh)
+/tools/linux/
+
+# Firmware builds, generated configuration and camera verification output
+/build/
+
+# Python bytecode, virtual environments and test caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+.idea/
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

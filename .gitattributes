@@ -1,0 +1,11 @@
+* text=auto
+*.c text eol=lf
+*.h text eol=lf
+*.s text eol=lf
+*.ld text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.elf binary
+*.bin binary
+*.zip binary
