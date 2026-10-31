@@ -182,6 +182,18 @@ class WaveProfileTests(unittest.TestCase):
             self.assertEqual(wave_sample(config, wave, 0), [0, 0, 0])
             self.assertEqual(wave_sample(config, wave, config['interval_ms'] - 8), [0, 0, 0])
 
+    def test_4mhz_variant_preserves_pixels_and_is_wave_only(self):
+        original = load_profile(ROOT / 'configs/effects/diagonal-color-flow-rby.json')
+        variant = load_profile(ROOT / 'configs/effects/diagonal-color-flow-rby-4mhz.json')
+        for field in original.keys() - {'name', 'description', 'gclk_hz'}:
+            self.assertEqual(variant[field], original[field])
+        self.assertEqual(variant['gclk_hz'], 4000000)
+        for wave in range(3):
+            for age in range(0, original['interval_ms'], 8):
+                self.assertEqual(wave_sample(variant, wave, age), wave_sample(original, wave, age))
+        with self.assertRaises(ValueError):
+            load_profile(ROOT / 'configs/effects/classic-breathe.json', gclk_hz=4000000)
+
     def test_stronger_blend_retains_timing_and_increases_minor_channels(self):
         config = load_profile(ROOT / 'configs/effects/diagonal-color-flow-rby.json')
         original = load_profile(ROOT / 'configs/effects/diagonal-color-flow.json')

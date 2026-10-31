@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "name": "diagonal-color-flow-rby-4mhz",
+  "description": "红蓝黄持续混色，4 MHz GCLK 降低实测听感噪声，保留原扫描速度；仍有残余噪声",
+  "effect": "diagonal-wave",
+  "colors": ["red", "blue", "yellow"],
+  "peak": 3072,
+  "travel_ms": 8000,
+  "interval_ms": 3600,
+  "crest_ms": 360,
+  "tail_ms": 1800,
+  "gclk_hz": 4000000,
+  "wave_curve": "color-flow-blended",
+  "floor": 2944,
+  "color_blend": 512
+}

@@ -18,6 +18,8 @@ static uint32_t timer_hz = BOARD_TIMER_HZ;
 #define GPIOA_BSRR REG32(0x50000018U)
 #define GPIOA_AFRL REG32(0x50000020U)
 #define GPIOB_MODER REG32(0x50000400U)
+#define GPIOB_PUPDR REG32(0x5000040CU)
+#define GPIOB_IDR REG32(0x50000410U)
 #define GPIOB_BSRR REG32(0x50000418U)
 #define TIM22_CR1 REG32(0x40011400U)
 #define TIM22_EGR REG32(0x40011414U)
@@ -87,7 +89,9 @@ uint32_t board_gclk_start(uint32_t requested_hz)
 {
     uint32_t period;
     if (timer_hz == 32000000U) {
-        if (requested_hz == 2000000U) period = 16U;
+        if (requested_hz == 8000000U) period = 4U;
+        else if (requested_hz == 4000000U) period = 8U;
+        else if (requested_hz == 2000000U) period = 16U;
         else if (requested_hz == 1000000U) period = 32U;
         else return 0U;
     } else if (requested_hz == 100000U) period = timer_hz == BOARD_TIMER_HZ ? 21U : 42U;
@@ -179,9 +183,19 @@ void board_serial_word_fast(uint16_t data, uint8_t latch_last)
     board_serial_bit(value >> 31, latch_last);
 }
 
+uint8_t board_buttons_pressed(void)
+{
+    /* PB12..15: external switches to GND, internal pull-ups. */
+    return (uint8_t)((~GPIOB_IDR >> 12) & 15U);
+}
+
 void board_init(void)
 {
     RCC_IOPENR |= 3U;
+    (void)RCC_IOPENR; /* Complete the GPIO clock enable before accessing ports. */
+    for (uint8_t pin = 12U; pin <= 15U; ++pin)
+        gpio_mode(&GPIOB_MODER, pin, 0U);
+    GPIOB_PUPDR = (GPIOB_PUPDR & ~0xFF000000U) | 0x55000000U;
     RCC_APB2ENR |= 1U << 5; /* TIM22 */
     GPIOA_BSRR = (LE | DCLK | GCLK | SDI) << 16;
     for (uint8_t pin = 4U; pin <= 7U; ++pin) gpio_mode(&GPIOA_MODER, pin, 1U);

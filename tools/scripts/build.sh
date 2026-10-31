@@ -37,9 +37,14 @@ python3 "$root/tools/scripts/effect_profiles.py" "${profile_args[@]}"
     -I "$root/build" -I "$root/firmware/include" \
     -T "$root/firmware/linker/stm32l051c8.ld" "$root/firmware/startup/startup.s" \
     "$root/firmware/src/app/main.c" \
+    "$root/firmware/src/app/keyboard_controls.c" \
+    "$root/firmware/src/app/keyboard_settings.c" \
+    "$root/firmware/src/board/settings_eeprom.c" \
     "$root/firmware/src/board/board.c" "$root/firmware/src/drivers/mbia045.c" "$root/firmware/src/keyboard/keyboard_rgb.c" \
     "$root/firmware/src/effects/keyboard_effect.c" \
     "$root/firmware/src/effects/keyboard_wave.c" \
+    "$root/firmware/src/effects/keyboard_uniform.c" \
+    "$root/firmware/src/effects/keyboard_spatial.c" \
     -o "$root/build/demo.elf" -lgcc
 "$objcopy" -O binary "$root/build/demo.elf" "$root/build/demo.bin"
 ls -lh "$root/build/demo.elf" "$root/build/demo.bin"

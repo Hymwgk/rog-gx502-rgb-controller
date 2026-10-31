@@ -36,7 +36,7 @@ def main():
     parser.add_argument('--level', type=int, choices=(0, 1), default=1)
     parser.add_argument('--channel', type=bounded(0, 47), default=0)
     parser.add_argument('--brightness', type=bounded(1, 16384), default=None)
-    parser.add_argument('--gclk-hz', type=int, choices=(100000, 500000, 1000000, 2000000), default=None)
+    parser.add_argument('--gclk-hz', type=int, choices=(100000, 500000, 1000000, 2000000, 4000000), default=None)
     parser.add_argument('--seconds', type=bounded(1, 60), default=20)
     parser.add_argument('--flash', action='store_true', help='构建后烧录并校验')
     args = parser.parse_args()
@@ -73,6 +73,8 @@ def main():
         args.gclk_hz = 2000000 if args.mode == 'breathe' else 100000
     if args.gclk_hz == 2000000 and args.mode not in ('breathe', 'wave'):
         parser.error('2 MHz GCLK 仅用于 breathe 或 wave 模式')
+    if args.gclk_hz == 4000000 and args.mode != 'wave':
+        parser.error('4 MHz GCLK 仅用于 wave 模式')
     defines = {
         'MODE': MODES[args.mode], 'CTRL': args.ctrl_index, 'LEVEL': args.level,
         'CHANNEL': args.channel, 'BRIGHTNESS': args.brightness,

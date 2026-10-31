@@ -4,6 +4,7 @@ import argparse
 import hashlib
 import json
 from pathlib import Path
+from spatial_effects import generate_spatial_tables
 
 ROOT = Path(__file__).resolve().parents[2]
 COLORS = {'red': 1, 'green': 2, 'blue': 4, 'white': 7,
@@ -53,7 +54,7 @@ def load_profile(path, peak=None, gclk_hz=None):
         value = config[field]
         if type(value) is not int or not low <= value <= high:
             raise ValueError(f'{field} 必须为 {low}..{high} 的整数')
-    frequencies = (100000, 500000, 1000000, 2000000) if kind == 'breathe' else (1000000, 2000000)
+    frequencies = (100000, 500000, 1000000, 2000000) if kind == 'breathe' else (1000000, 2000000, 4000000)
     if type(config['gclk_hz']) is not int or config['gclk_hz'] not in frequencies:
         raise ValueError('gclk_hz 支持 ' + ', '.join(map(str, frequencies)))
     if kind == 'diagonal-wave' and config['interval_ms'] % 8 != 0:
@@ -209,6 +210,9 @@ static const keyboard_effect_config_t keyboard_effect_config = {{
     generate_geometry(output.parent / 'keyboard_geometry.h')
     if config['effect'] == 'diagonal-wave':
         generate_wave_tables(config, output.parent / 'keyboard_wave_tables.h')
+        generate_spatial_tables(ROOT / 'configs/keyboard/keymap.json',
+                                [COLORS[c] for c in config['colors']], config['peak'],
+                                output.parent / 'keyboard_spatial_tables.h')
     output.with_suffix('.json').write_text(json.dumps(config, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
 
